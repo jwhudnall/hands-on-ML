@@ -1,4 +1,5 @@
 # Machine Learning Project Checklist
+Source: [Hands-On Machine Learning by Aurélien Géron](https://github.com/ageron/handson-ml2)
 1. Frame the problem and look at the big picture.
 2. Get the data.
 3. Explore the data to gain insights.
@@ -7,3 +8,18 @@
 6. Fine-tune your models and combine them into a great solution.
 7. Present your solution.
 8. Launch, monitor, and maintain your system.
+
+
+## 1. Frame the Problem and Look at the Big Picture
+1. Define the objective in business terms.
+2. How will your solution be used?
+3. What are the current solutions/workarounds (if any)?
+4. How should you frame this problem (supervised vs unsupervised, online vs. offline)?
+5. How should performance be measured?
+6. Is the performance measure aligned with the business objective?
+7. What would be the minimum performance needed to reach the business objective?
+8. What are comparable problems?
+9. Is human expertise available?
+10. How would you solve the problem manually?
+11. List the assumptions you (or others) have made so far.
+12. Verify assumptions if possible.
