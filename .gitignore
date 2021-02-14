@@ -4,3 +4,4 @@ debug.log
 Models/
 *.joblib
 *.p
+Images/
